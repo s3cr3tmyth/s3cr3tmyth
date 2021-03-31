@@ -1,5 +1,4 @@
-# Hi, there 👋
-
+# Hi!
 <!--- I work at [Spectrum Health](https://www.spectrumhealth.org/) as a Research Data Scientist. --->
 
 Background: MS in Data Science, BS in Computer Science.
