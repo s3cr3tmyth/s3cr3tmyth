@@ -28,5 +28,5 @@ Interested in intersection of Healthcare and Natural Language Processing!
     <a href="https://twitter.com/omkar_lawless/">
         <img src="https://img.shields.io/badge/-Twitter-1da1f2?style=flat&amp;logo=Twitter&amp;logoColor=white" alt="Github">
     </a> 
-    ![Profile views](https://gpvc.arturio.dev/s3cr3tmyth)
+<!--     ![Profile views](https://gpvc.arturio.dev/s3cr3tmyth) -->
 </p>
