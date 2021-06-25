@@ -3,7 +3,7 @@
 
 Background: MS in Data Science, BS in Computer Science.
 
-Interested in intersection of Healthcare and Natural Language Processing!
+Working in intersection of Healthcare and Natural Language Processing!
 
 
 <p align="center">
